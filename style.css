@@ -1,0 +1,32 @@
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+ font-size: 15px;
+ color: darkgreen;
+}
+.copy_right_footer {
+    color: aliceblue;
+    bottom: 0;
+    background-color: grey;
+    width:100%;
+    position: fixed;
+    text-align: center;
+    line-height: 3;
+    border-radius: 200px;
+}
+
+canvas{
+ border: 5px solid white;
+ box-shadow: 5px 5px 5px grey;
+ border-radius: 20px;
+}
+
+body {
+  background-image: url("thumb_purple-waves.jpg");
+  background-size: cover;
+}
